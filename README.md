@@ -1,2 +1,2 @@
 # IntroR
-Introduction to R
+A repository for "Intro to R" materials. 
